@@ -1,24 +1,12 @@
 # 18.330: Introduction to numerical analysis
 
+This is the repository contains all the learning materials for MIT 18.330, you can go to the original website to get the same resources and blank problem set jupyter notebooks.
+
 ## Spring 2020
 
 Welcome to 18.330! This is an introductory course on numerical analysis.
 
 We will be using the [Julia language](www.julialang.org). Please follow [these installation instructions](installation.md).
-
-## Logistics
-
-- Visiting professor David P. Sanders ([sandersd@mit.edu](mailto:sandersd@mit.edu))
-
-- MWF 1--2, room 2-139.
-
-- Office hours:
-
-  - Mon 5.20-6.20 in the **Julia lab**, 7th floor of Stata Center (turn left from Gates building elevator)
-  - Tues 5-6 in the Julia lab
-  - Thurs 5-6 in 2.332
-
-- Piazza forum: https://piazza.com/class/k65ke8eo9x760n
 
 ### Slides, notebooks and recordings from lectures
 
@@ -30,9 +18,8 @@ We will be using the [Julia language](www.julialang.org). Please follow [these i
 
 ### Evaluation
 
-- 9 problem sets (66.6%). No late submissions, but the lowest score will be dropped.
-<!-- - 1 midterm exam (20%): Wednesday, March 18 -->
-- Final project (33.4%): Due Tuesday, May 12
+- 9 problem sets 
+- Final project 
 
 Problem sets will consist of a mixture of theory and coding. They will be submitted and graded online.
 
