@@ -27,9 +27,7 @@ The final project will be an exploration of a topic in numerical analysis that w
 
 ### Learning Julia
 
-- Prof. Steven Johnson will give an introduction to Julia on Friday, Feb 7 from 5-7pm in 32-141. Make sure to install Julia beforehand. See https://github.com/mitmath/julia-mit for information and resources on Julia.
-
-- For help with Julia you should be able to find people in the Julia lab most of the time (see above for directions)
+- See https://github.com/mitmath/julia-mit for information and resources on Julia.
 
 - More learning resources are available at https://julialang.org/learning/
 
@@ -45,14 +43,7 @@ To get the files, use `git` from the command line (or from a GUI), as follows
 ```
 git clone https://github.com/mitmath/18330
 ```
-This will create a new directory called `18330` with the matierials.
-
-
-- Update it to pull in new changes each time with
-```
-git pull
-```
-This needs to be executed from within the directory. (Use `cd` to change directory.)
+This will create a new directory called `18330` which contains the blank jupyter notebooks for problemset.
 
 ### Syllabus
 See [here](syllabus.md) for the approximate course syllabus.
@@ -60,3 +51,10 @@ See [here](syllabus.md) for the approximate course syllabus.
 ### Bibliography
 
 See [here](bibliography.md) for bibliography and related online courses and learning materials.
+
+### Wanna Learn More ?
+
+Check out [this repository](https://github.com/PKUFlyingPig/Self-learning-Computer-Science) which contains all my self-learning materials : )
+
+
+
